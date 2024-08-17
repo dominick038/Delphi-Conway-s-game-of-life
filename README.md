@@ -43,4 +43,5 @@ Conway's Game of Life is a cellular automaton devised by mathematician John Hort
 
 ## Example
 
-https://github.com/user-attachments/assets/c42d14ce-743f-4d38-b424-ca3abac40af9
+https://github.com/user-attachments/assets/bb4bab7a-9ff2-46b1-8f73-a494df2365ef
+
