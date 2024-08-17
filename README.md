@@ -20,7 +20,7 @@ Conway's Game of Life is a cellular automaton devised by mathematician John Hort
 ### Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/dominick038/cDelphi-Conway-s-game-of-life.git
+   git clone https://github.com/dominick038/Delphi-Conway-s-game-of-life.git
 2. **Open the Project:**
 - Navigate to the project directory and open the .dproj file in the Delphi IDE.
 3. **Build and Run:**
