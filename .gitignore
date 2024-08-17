@@ -1,0 +1,18 @@
+# Directories to ignore
+Win32
+__history
+__recovery
+
+# Files types to ignore
+*.local
+*.identcache
+*.res
+*.cbk
+
+# Generic large file types
+*.png
+*.jpg
+*.mp4
+*.mp3
+
+
