@@ -14,7 +14,7 @@ Conway's Game of Life is a cellular automaton devised by mathematician John Hort
 
 ## Installation
 ### Prerequisites
-- **Delphi IDE**: Any version of Embarcadero RAD Studio that supports VCL (Visual Component Library).
+- **Delphi IDE**: Any version of Embarcadero RAD Studio that supports SKIA.
 - **Windows Operating System**: Required to run the Delphi application.
 
 ### Setup
